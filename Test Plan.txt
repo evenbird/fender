@@ -1,0 +1,80 @@
+****** Test Plan ********
+
+1. At a high-level, list up to 15 things on this page that you would test if you were putting together a test plan.
+   *check title
+     Expected result: "Fender American Elite Stratocaster® HSS Shawbucker, Rosewood Fingerboard, Olympic Pearl"
+   
+   *check header
+     Expected result: " New! American Elite Stratocaster® HSS Shawbucker Model #: 0114110723"
+   
+   *hover over and click navigateiong bar
+     Expected result: hover over and able to navigate to corret page.
+	 
+   *text and click search bar
+     Expected result: able to go to search result page.
+   
+   *click signin button
+     Expected result: able to go to account login page.
+	 
+   *click Dealer Locator
+     Expected result: able to go to dealer location page.
+	 
+   *View Cart
+     Expected result: hover over able to see cartInfo and when click able to go to cart detail page.
+	 
+   *navigate to Facebook, Twiter button
+     Expected result: the Twitter share, facebook dialog should open in a new window with the correct page title and url. able to close it and back to current page
+   
+   *add Share + close add Share
+     Expected result: the Twitter share, facebook dialog should open in a new window with the correct page title and url. able to close it and back to current page.
+   
+   *click each of the Color
+     Expected result: page will refresh with correct guitar picture.
+   
+   *each of FingerBoard Material
+     Expected result: page will refresh with correct guitar picture.
+	 
+   *navigate to different picture of the guitar
+    Expected result: page with correct guitar picture.
+	
+   *Hover to Zoom
+    Expected result: page with correct guitar picture with block.
+	
+   *check price
+        Expected result: correct price.
+	 
+   *click Add To Cart Button
+        Expected result: guitar display at view Cart .
+	 
+   *Play one button
+        Expected result: popup display, able to close popup and back to current page.
+	 
+   *Add to Wishlist button
+        Expected result: login page or to wish list page.
+	 
+   *click Highlights, specs, support button 
+        Expected result: correct content displays.
+
+   *navigator of Recommended Gear
+        Expected result: able to navigate.
+
+		
+   *Chat with Us
+        Expected result: dialog display and able to minimize dialog.
+
+   *text and click signup
+        Expected result: corrent email formate.
+
+   *every link
+        Expected result: able to navigate to such link.
+
+   *every button
+        Expected result: able to click.
+
+   *text in paragraph
+        Expected result: correct text formate, content.
+
+   
+
+   
+   

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20332" started-at="2016-07-27T17:55:52Z" finished-at="2016-07-27T17:56:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20332" started-at="2016-07-27T17:55:52Z" finished-at="2016-07-27T17:56:13Z">
+      <class name="com.fenders.web.test.test">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.fenders.web.test.test@61386958]" name="test1" duration-ms="20315" started-at="2016-07-27T10:55:52Z" finished-at="2016-07-27T10:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="closebroser()[pri:0, instance:com.fenders.web.test.test@61386958]" name="closebroser" is-config="true" duration-ms="6" started-at="2016-07-27T10:56:13Z" finished-at="2016-07-27T10:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebroser -->
+      </class> <!-- com.fenders.web.test.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
