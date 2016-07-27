@@ -15,10 +15,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 /**
  *
-hmaheshwari
-Oct 21, 2015
-3:53:17 PM
-
+daniel zeng
+July 26, 2016
  */
 
 public class HomePage extends BasePage {
